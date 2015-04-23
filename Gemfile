@@ -6,7 +6,7 @@ gem 'rails', '4.2.1'
 
 group :test do
   gem 'selenium-webdriver'
-  gem 'capybara'
+  gem 'capybara', '2.4.4'
 end
 
 # Use SCSS for stylesheets
